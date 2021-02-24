@@ -19,15 +19,9 @@
 </p>
 
 <br>
-<p align="center">
 - 👑 Java development
-</p>
-<p align="center">
 - 🖥️ Rede Celeste developer
-</p>
-<p align="center">
 - 📕 Always in search of learning
-</p>
 <br>
 
 <p align="center">
