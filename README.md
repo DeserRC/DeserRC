@@ -1,5 +1,5 @@
 <div align="center">
-   <h1>Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+   <h1>Welcome! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 </div>
 
 <p align="center">
@@ -19,11 +19,15 @@
 </p>
 
 <br>
-
+<p align="center">
 - 👑 Java development
-- 🖥️ Rede Celeste developer 
+</p>
+<p align="center">
+- 🖥️ Rede Celeste developer
+</p>
+<p align="center">
 - 📕 Always in search of learning
-
+</p>
 <br>
 
 <p align="center">
