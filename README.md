@@ -1,16 +1,29 @@
-### Hi there 👋
+<div align="center">
+   <h1>Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+</div>
 
-<!--
-**DeserRC/DeserRC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="mailto:deserrc@gmail.com">
+    <img src="https://img.shields.io/badge/-deserrc@gmail.com-2F80ED?style=flat-square&labelColor=2F80ED&logo=Gmail&logoColor=FFFFFF&link=mailto:deserrc@gmail.com">
+  </a>
+  <a href="https://discord.com/users/268040487800274956">
+    <img src="https://img.shields.io/badge/@Deser6626-2F80ED?style=flat-square&labelColor=2F80ED&logo=discord&logoColor=FFFFFF">
+  </a>
+  <a href="https://twitter.com/intent/follow?screen_name=DeserRC">
+    <img src="https://img.shields.io/badge/@DeserRC-2F80ED?style=flat-square&labelColor=2F80ED&logo=twitter&logoColor=FFFFFF&link=https://twitter.com/intent/follow?screen_name=DeserRC">
+  </a>
+</p>
 
-Here are some ideas to get you started:
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=DeserRC&count_private=true&show_icons=true&hide_title=true&hide=stars" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+- 👑 Java development
+- 🖥️ Rede Celeste developer 
+- 📕 Always in search of learning
+
+<br>
+
+<div align="left">
+   <img src="https://github-profile-trophy.vercel.app/?username=mluizaa00&theme=flat&no-frame=true&margin-w=25" />
+</div>
