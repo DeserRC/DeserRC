@@ -14,8 +14,10 @@
   </a>
 </p>
 
+<br>
+
 <p align="center">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=DeserRC&count_private=true&show_icons=true&hide_title=true&hide=stars" />
+   <img src="https://github-readme-stats.vercel.app/api?username=DeserRC&count_private=true&show_icons=true&hide=stars&theme=react&line_height=30" />
 </p>
 
 <br>
@@ -27,5 +29,5 @@
 <br>
 
 <p align="center">
-   <img src="https://github-profile-trophy.vercel.app/?username=mluizaa00&theme=flat&no-frame=true&margin-w=25" />
+   <img src="https://github-profile-trophy.vercel.app/?username=DeserRC&theme=flat&no-frame=true&margin-w=25" />
 </p>
