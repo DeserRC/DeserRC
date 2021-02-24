@@ -20,13 +20,9 @@
    <img src="https://github-readme-stats.vercel.app/api?username=DeserRC&count_private=true&show_icons=true&hide=stars&theme=react&line_height=30" />
 </p>
 
-<br>
-
 - 👑 Java development
 - 🖥️ Rede Celeste developer
 - 📕 Always in search of learning
-
-<br>
 
 <p align="center">
    <img src="https://github-profile-trophy.vercel.app/?username=DeserRC&theme=nord&no-frame=true&margin-w=25" />
