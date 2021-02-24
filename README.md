@@ -1,6 +1,6 @@
-<div align="center">
+<p align="center">
    <h1>Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
-</div>
+</p>
 
 <p align="center">
   <a href="mailto:deserrc@gmail.com">
@@ -14,9 +14,9 @@
   </a>
 </p>
 
-<div align="center">
+<p align="center">
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=DeserRC&count_private=true&show_icons=true&hide_title=true&hide=stars" />
-</div>
+</p>
 
 <br>
 
@@ -26,6 +26,6 @@
 
 <br>
 
-<div align="left">
+<p align="center">
    <img src="https://github-profile-trophy.vercel.app/?username=mluizaa00&theme=flat&no-frame=true&margin-w=25" />
-</div>
+</p>
