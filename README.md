@@ -14,7 +14,9 @@
   </a>
 </p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=DeserRC&count_private=true&show_icons=true&hide_title=true&hide=stars" />
+<div align="center">
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=DeserRC&count_private=true&show_icons=true&hide_title=true&hide=stars" />
+</div>
 
 <br>
 
