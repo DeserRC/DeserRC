@@ -19,9 +19,11 @@
 </p>
 
 <br>
+
 - 👑 Java development
 - 🖥️ Rede Celeste developer
 - 📕 Always in search of learning
+
 <br>
 
 <p align="center">
