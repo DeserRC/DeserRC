@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/-deserrc@gmail.com-2F80ED?style=flat-square&labelColor=2F80ED&logo=Gmail&logoColor=FFFFFF&link=mailto:deserrc@gmail.com">
   </a>
   <a href="https://discord.com/users/268040487800274956">
-    <img src="https://img.shields.io/badge/@Deser6626-2F80ED?style=flat-square&labelColor=2F80ED&logo=discord&logoColor=FFFFFF">
+    <img src="https://img.shields.io/badge/@Deser0001-2F80ED?style=flat-square&labelColor=2F80ED&logo=discord&logoColor=FFFFFF">
   </a>
   <a href="https://twitter.com/intent/follow?screen_name=DeserRC">
     <img src="https://img.shields.io/badge/@DeserRC-2F80ED?style=flat-square&labelColor=2F80ED&logo=twitter&logoColor=FFFFFF&link=https://twitter.com/intent/follow?screen_name=DeserRC">
