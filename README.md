@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <a href="mailto:deserrc@gmail.com">
+  <a href="mailto:Deserrc@gmail.com">
     <img src="https://img.shields.io/badge/-deserrc@gmail.com-2F80ED?style=flat-square&labelColor=2F80ED&logo=Gmail&logoColor=FFFFFF&link=mailto:deserrc@gmail.com">
   </a>
   <a href="https://discord.com/users/268040487800274956">
