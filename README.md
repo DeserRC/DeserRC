@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="mailto:Deserrc@gmail.com">
-    <img src="https://img.shields.io/badge/-deserrc@gmail.com-2F80ED?style=flat-square&labelColor=2F80ED&logo=Gmail&logoColor=FFFFFF&link=mailto:deserrc@gmail.com">
+    <img src="https://img.shields.io/badge/-deserrc@gmail.com-2F80ED?style=flat-square&labelColor=2F80ED&logo=Gmail&logoColor=FFFFFF&link=mailto:Deserrc@gmail.com">
   </a>
   <a href="https://discord.com/users/268040487800274956">
     <img src="https://img.shields.io/badge/@Deser0001-2F80ED?style=flat-square&labelColor=2F80ED&logo=discord&logoColor=FFFFFF">
