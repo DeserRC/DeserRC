@@ -1,5 +1,5 @@
 <div align="center">
-   <h1>Welcome! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+   <h1> Welcome! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 </div>
 
 <p align="center">
@@ -23,4 +23,6 @@
 - 🖥️ Celeste Studios developer
 - 📕 Always in search of learning
 
-<h4> The pleasures arising from thinking and learning will make us think and learn all the more. ~ Aristotle <h4>
+<div align="center">
+   <h4> The pleasures arising from thinking and learning will make us think and learn all the more. ~ Aristotle <h4>
+</div>
