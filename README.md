@@ -19,9 +19,6 @@
 </p>
 
 - 👑 Java development
-- 🖥️ Rede Celeste developer
+- 🧨 GoLang Developer
+- 🖥️ Celeste Studios developer
 - 📕 Always in search of learning
-
-<p align="center">
-   <img src="https://github-profile-trophy.vercel.app/?username=DeserRC&theme=nord&no-frame=true&margin-w=25" />
-</p>
