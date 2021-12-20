@@ -19,6 +19,6 @@
 </p>
 
 - 👑 Java development
-- 🧨 GoLang Developer
+- 🧨 GoLang development
 - 🖥️ Celeste Studios developer
 - 📕 Always in search of learning
