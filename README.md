@@ -22,3 +22,5 @@
 - 🧨 GoLang development
 - 🖥️ Celeste Studios developer
 - 📕 Always in search of learning
+
+The pleasures arising from thinking and learning will make us think and learn all the more. ~ Aristotle
