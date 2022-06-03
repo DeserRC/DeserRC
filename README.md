@@ -20,7 +20,7 @@
 
 - 👑 Java development
 - 🧨 GoLang development
-- 🖥️ Celeste Studios developer
+- 🖥️ Cefoler Studios developer
 - 📕 Always in search of learning
 
 <div align="center">
