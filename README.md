@@ -1,16 +1,16 @@
 <div align="center">
-   <h1> Welcome to my Profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+   <h1> Welcome to my Profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> </h1>
 </div>
 
 <p align="center">
-  <a href="mailto:Deserrc@gmail.com">
-    <img src="https://img.shields.io/badge/-deserrc@gmail.com-2F80ED?style=flat-square&labelColor=2F80ED&logo=Gmail&logoColor=FFFFFF&link=mailto:Deserrc@gmail.com">
+  <a href="mailto:deserrc@gmail.com">
+    <img src="https://img.shields.io/badge/deserrc@gmail.com-00008B?logo=gmail&style=flat-square">
   </a>
   <a href="https://linkedin.com/in/Deser">
-    <img src="https://img.shields.io/badge/Diego Cruz-2F80ED?style=flat-square&logo=linkedin">
+    <img src="https://img.shields.io/badge/Diego Cruz-00008B?logo=linkedin&style=flat-square">
   </a>
   <a href="https://twitter.com/intent/follow?screen_name=DeserRC">
-    <img src="https://img.shields.io/badge/@DeserRC-2F80ED?style=flat-square&labelColor=2F80ED&logo=twitter&logoColor=FFFFFF&link=https://twitter.com/intent/follow?screen_name=DeserRC">
+    <img src="https://img.shields.io/badge/DeserRC-00008B?logo=twitter&style=flat-square">
   </a>
 </p>
 
