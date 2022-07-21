@@ -4,13 +4,13 @@
 
 <p align="center">
   <a href="mailto:deserrc@gmail.com">
-    <img src="https://img.shields.io/badge/deserrc@gmail.com-00008B?logo=gmail&style=flat-square">
+    <img src="https://img.shields.io/badge/deserrc@gmail.com-0000CD?logo=gmail&style=flat-square">
   </a>
   <a href="https://linkedin.com/in/Deser">
-    <img src="https://img.shields.io/badge/Diego Cruz-00008B?logo=linkedin&style=flat-square">
+    <img src="https://img.shields.io/badge/Diego Cruz-0000CD?logo=linkedin&style=flat-square">
   </a>
   <a href="https://twitter.com/intent/follow?screen_name=DeserRC">
-    <img src="https://img.shields.io/badge/DeserRC-00008B?logo=twitter&style=flat-square">
+    <img src="https://img.shields.io/badge/DeserRC-0000CD?logo=twitter&style=flat-square">
   </a>
 </p>
 
