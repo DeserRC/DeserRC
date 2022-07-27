@@ -22,7 +22,3 @@
 - 🧨 GoLang development
 - 🖥️ Cefoler Studios developer
 - 📕 Always in search of learning
-
-<div align="center">
-   <h4> The pleasures arising from thinking and learning will make us think and learn all the more. ~ Aristotle <h4>
-</div>
