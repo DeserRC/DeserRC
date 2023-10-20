@@ -9,16 +9,11 @@
   <a href="https://linkedin.com/in/Deser">
     <img src="https://img.shields.io/badge/Diego Cruz-0000FF?logo=linkedin&style=flat-square">
   </a>
-  <a href="https://twitter.com/intent/follow?screen_name=DeserRC">
-    <img src="https://img.shields.io/badge/DeserRC-0000FF?logo=twitter&style=flat-square">
-  </a>
 </p>
 
 <p align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=DeserRC&count_private=true&show_icons=true&theme=github_dark" />
 </p>
 
-- 👑 Java development
-- 🧨 GoLang development
 - 🖥️ Cefoler Studios developer
 - 📕 Always in search of learning
