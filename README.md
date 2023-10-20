@@ -5,7 +5,7 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DeserRC&area=true&hide_border=true&color=1E90FF&area_color=4682B4&line=1E90FF&point=6495ED&bg_color=0D1117)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DeserRC&theme=onestar&no-bg=true&row=2&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=DeserRC&theme=discord&no-bg=true&row=2&column=3&margin-w=15&margin-h=15" />
 </p>
 
 <div align="center">  
