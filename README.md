@@ -1,20 +1,15 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&text=DeserRC&fontAlign=50&fontAlignY=38&color=gradient" />
 
 <h1 align="center">Diego Cruz</h1>
+
 <p align="center">
   Full Stack Developer with 8+ years of experience building robust, scalable solutions for the financial market and the game industry.
 </p>
 
 <p align="center">
-  <a href="mailto:deserrc@gmail.com">
-    <img src="https://img.shields.io/badge/Email-deserrc%40gmail.com-black?style=for-the-badge&logo=gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/deser/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-deser-black?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://github.com/DeserRC" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-DeserRC-black?style=for-the-badge&logo=github" />
-  </a>
+  <a href="mailto:deserrc@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-deserrc%40gmail.com-black?style=for-the-badge&logo=gmail" /></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/deser/" target="_blank" rel="noreferrer"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-deser-black?style=for-the-badge&logo=linkedin" /></a>&nbsp;&nbsp;
+  <a href="https://github.com/DeserRC" target="_blank" rel="noreferrer"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-DeserRC-black?style=for-the-badge&logo=github" /></a>
 </p>
 
 ---
@@ -69,27 +64,19 @@ Docker · Kubernetes · Google Cloud Platform (GCP) · Microsoft Azure · Amazon
 
 ## Projects
 <p align="left">
-  <a href="https://github.com/cefoler/databases" target="_blank" rel="noreferrer">
-    <img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=cefoler&repo=databases&theme=dark&description_lines_count=2&card_width=500&border_radius=10&cache_seconds=86400" />
-  </a>
-  <a href="https://github.com/cefoler/configuration" target="_blank" rel="noreferrer">
-    <img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=cefoler&repo=configuration&theme=dark&description_lines_count=2&card_width=500&border_radius=10&cache_seconds=86400" />
-  </a>
+  <a href="https://github.com/cefoler/databases" target="_blank" rel="noreferrer"><img width="49%" alt="cefoler/databases" src="https://github-stats-extended.vercel.app/api/pin/?username=cefoler&repo=databases&theme=dark&description_lines_count=2&card_width=500&border_radius=10&cache_seconds=86400" /></a>
+  <a href="https://github.com/cefoler/configuration" target="_blank" rel="noreferrer"><img width="49%" alt="cefoler/configuration" src="https://github-stats-extended.vercel.app/api/pin/?username=cefoler&repo=configuration&theme=dark&description_lines_count=2&card_width=500&border_radius=10&cache_seconds=86400" /></a>
 </p>
 
 <p align="left">
-  <a href="https://github.com/cefoler/task" target="_blank" rel="noreferrer">
-    <img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=cefoler&repo=task&theme=dark&description_lines_count=2&card_width=500&border_radius=10&cache_seconds=86400" />
-  </a>
-  <a href="https://github.com/cefoler/celestium-protocol" target="_blank" rel="noreferrer">
-    <img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=cefoler&repo=celestium-protocol&theme=dark&description_lines_count=2&card_width=500&border_radius=10&cache_seconds=86400" />
-  </a>
+  <a href="https://github.com/cefoler/task" target="_blank" rel="noreferrer"><img width="49%" alt="cefoler/task" src="https://github-stats-extended.vercel.app/api/pin/?username=cefoler&repo=task&theme=dark&description_lines_count=2&card_width=500&border_radius=10&cache_seconds=86400" /></a>
+  <a href="https://github.com/cefoler/celestium-protocol" target="_blank" rel="noreferrer"><img width="49%" alt="cefoler/celestium-protocol" src="https://github-stats-extended.vercel.app/api/pin/?username=cefoler&repo=celestium-protocol&theme=dark&description_lines_count=2&card_width=500&border_radius=10&cache_seconds=86400" /></a>
 </p>
 
 ---
 
 ## GitHub Stats
 <p align="left">
-  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=DeserRC&show_icons=true&theme=dark&hide_title=true&border_radius=10&cache_seconds=86400" />
-  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=DeserRC&layout=compact&theme=dark&hide_progress=true&border_radius=10&cache_seconds=86400" />
+  <img width="49%" alt="GitHub stats" src="https://github-stats-extended.vercel.app/api?username=DeserRC&show_icons=true&theme=dark&hide_title=true&border_radius=10&cache_seconds=86400" />
+  <img width="49%" alt="Top languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=DeserRC&layout=compact&theme=dark&hide_progress=true&border_radius=10&cache_seconds=86400" />
 </p>
