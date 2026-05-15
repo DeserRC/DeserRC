@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&text=DeserRC&fontAlign=50&fontAlignY=38&color=gradient" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Deser&fontAlign=50&fontAlignY=38&color=gradient" />
 
 <h1 align="center">Diego Cruz</h1>
 
