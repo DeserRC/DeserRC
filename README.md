@@ -52,10 +52,10 @@ and years of game backends before both.
 
 Java libraries I maintain at [**@cefoler**](https://github.com/cefoler) — Apache-2.0, published and versioned.
 
-<a href="https://github.com/cefoler/databases"><img align="top" src="https://github-stats-extended.vercel.app/api/pin/?username=cefoler&repo=databases&theme=dark&description_lines_count=2&card_width=420&border_radius=10&cache_seconds=86400" /></a>
+<a href="https://github.com/cefoler/databases"><img align="top" src="https://github-stats-extended.vercel.app/api/pin/?username=cefoler&repo=databases&theme=dark&description_lines_count=2&card_width=380&border_radius=10&cache_seconds=86400" /></a>
 &nbsp;&nbsp;
-<a href="https://github.com/cefoler/configuration"><img align="top" src="https://github-stats-extended.vercel.app/api/pin/?username=cefoler&repo=configuration&theme=dark&description_lines_count=2&card_width=420&border_radius=10&cache_seconds=86400" /></a>
+<a href="https://github.com/cefoler/configuration"><img align="top" src="https://github-stats-extended.vercel.app/api/pin/?username=cefoler&repo=configuration&theme=dark&description_lines_count=2&card_width=380&border_radius=10&cache_seconds=86400" /></a>
 
-<a href="https://github.com/cefoler/task"><img align="top" src="https://github-stats-extended.vercel.app/api/pin/?username=cefoler&repo=task&theme=dark&description_lines_count=2&card_width=420&border_radius=10&cache_seconds=86400" /></a>
+<a href="https://github.com/cefoler/task"><img align="top" src="https://github-stats-extended.vercel.app/api/pin/?username=cefoler&repo=task&theme=dark&description_lines_count=2&card_width=380&border_radius=10&cache_seconds=86400" /></a>
 &nbsp;&nbsp;
-<a href="https://github.com/cefoler/celestium-protocol"><img align="top" src="https://github-stats-extended.vercel.app/api/pin/?username=cefoler&repo=celestium-protocol&theme=dark&description_lines_count=2&card_width=420&border_radius=10&cache_seconds=86400" /></a>
+<a href="https://github.com/cefoler/celestium-protocol"><img align="top" src="https://github-stats-extended.vercel.app/api/pin/?username=cefoler&repo=celestium-protocol&theme=dark&description_lines_count=2&card_width=380&border_radius=10&cache_seconds=86400" /></a>
