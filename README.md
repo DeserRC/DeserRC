@@ -7,7 +7,7 @@
 `java` &nbsp;`angular` &nbsp;`software-architecture` &nbsp;`distributed-systems` &nbsp;`security` &nbsp;`observability` &nbsp;`high-performance`
 
 **Software architect and backend engineer.**<br>
-CTO at MG7 Partners, building financial and credit platforms · CEO at [Cefoler](https://cefoler.com), a software development company<br>
+CTO at [MG7 Partners](https://mg7partners.com.br), building financial and credit platforms · CEO at [Cefoler](https://cefoler.com), a software development company<br>
 building secure, scalable and high-performance systems, from enterprise platforms to real-time game backends.
 
 [![Email](https://img.shields.io/badge/Email-deserrc%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deserrc@gmail.com)
