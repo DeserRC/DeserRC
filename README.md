@@ -106,7 +106,7 @@ building secure, scalable and high-performance systems, from enterprise platform
 
 ## Open source
 
-Open-source Java infrastructure maintained under [**@cefoler**](https://github.com/cefoler) — Apache-2.0 licensed libraries designed for reuse, extensibility and long-term maintainability.
+Open-source Java infrastructure maintained under [**@cefoler**](https://github.com/cefoler) with Apache-2.0 licensed libraries designed for reuse, extensibility and long-term maintainability.
 
 <p>
 <a href="https://github.com/cefoler/databases"><img align="top" src="https://github-stats-extended.vercel.app/api/pin/?username=cefoler&repo=databases&theme=dark&description_lines_count=2&card_width=380&border_radius=10&cache_seconds=86400" /></a>
